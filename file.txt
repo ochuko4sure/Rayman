@@ -1,0 +1,5 @@
+I am trying to understand how git tracxks file using the 
+git transfer
+
+
+what happened the lasdt time
